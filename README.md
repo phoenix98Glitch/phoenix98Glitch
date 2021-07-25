@@ -2,8 +2,7 @@
 
 # 🚀 About Me
 
-🎓 I am Preeti Chatterjee, a Front End Web Developer and AI enthusiast who completed her Bachelors in Information Technology with a DGPA of 8.72 in July 2021.
-To be more specific I thrive on React.js and Computer Vision.
+🎓 I am Preeti Chatterjee, a Front End Web Developer and AI enthusiast. To be more specific I thrive on React.js and Computer Vision. I also completed my Bachelors in Information Technology with a DGPA of 8.72 in July 2021.
 
 <!--
 **phoenix98Glitch/phoenix98Glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
