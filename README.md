@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# 🚀 About Me
+
+🎓 I am Preeti Chatterjee, a Front End Web Developer and AI enthusiast who completed her Bachelors in Information Technology with a DGPA of 8.72 in July 2021.
+To be more specific I thrive on React.js and Computer Vision.
+
 <!--
 **phoenix98Glitch/phoenix98Glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🏅 Achievements
+
+• 📝 Published a paper on "Comparative Study of OpenCV Inpainting Algorithms" in Global Journal of Computer Science and Technology Volume 21 Issue 2 for June 2021
+
+• 🦾 Artificial Intelligence Intern at MinimumQue from Jan-July 2021
+
+• 📊 Frontend web-development Intern at MinimumQue from Oct-Jan 2021
+
+• ⭐ Qualified for Facebook Hacker Cup Qualification Round 2020 with a rank of 5899 among 32,699 candidates trophy
+
+• ⚡ Qualified for SnackDown 2019 Online Qualifier Round securing a rank of 1780 among 27,875 teams
+
+• 🤝 Ranked in the top 5 percentile of West Bengal Joint Entrance Examination 2017
