@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 • 🦾 Artificial Intelligence Intern at MinimumQue from Jan-July 2021
 
-• 📊 Frontend web-development Intern at MinimumQue from Oct-Jan 2020
+• 📊 Frontend web-development Intern at MinimumQue from Oct 2020 - Jan 2021
 
 • ⭐ Qualified for Facebook Hacker Cup Qualification Round 2020 with a rank of 5899 among 32,699 candidates trophy
 
