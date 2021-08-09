@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 • 📝 Published a paper on "Comparative Study of OpenCV Inpainting Algorithms" in Global Journal of Computer Science and Technology Volume 21 Issue 2 for June 2021
 
-• 🦾 Artificial Intelligence Intern at MinimumQue from Jan-July 2021
+• 🦾 Artificial Intelligence Intern at MinimumQue AB from Jan-July 2021
 
 • 📊 Frontend web-development Intern at MinimumQue AB from Oct 2020 - Jan 2021
 
