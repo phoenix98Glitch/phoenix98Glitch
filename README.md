@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 -->
 # 🏅 Achievements
 
+• 📝 Teaching Assistant at CS Dept.
+
+• 📝 Research Assistant at Hoarfrost Lab
+
+• 📝 Pursuing Masters in Computer Science from the University of Georgia 
+
 • ❄️ Selected for Girlscript Winter of Code '21 as a contributor 
 
 • 📝 Published a paper on "Comparative Study of OpenCV Inpainting Algorithms" in Global Journal of Computer Science and Technology Volume 21 Issue 2 for June 2021
